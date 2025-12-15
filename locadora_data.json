@@ -1,0 +1,69 @@
+{
+    "clientes": [
+        {
+            "cpf": "111",
+            "nome": "Cliente Teste Persist\u00eancia"
+        },
+        {
+            "cpf": "12345678900",
+            "nome": "artur"
+        },
+        {
+            "cpf": "09876543211",
+            "nome": "carlos"
+        },
+        {
+            "cpf": "91028374561",
+            "nome": "renata"
+        },
+        {
+            "cpf": "00000000000",
+            "nome": "cliente0"
+        },
+        {
+            "cpf": "54678970991",
+            "nome": "cliente1"
+        },
+        {
+            "cpf": "123",
+            "nome": "Henrique"
+        },
+        {
+            "cpf": "345",
+            "nome": "Cliente2"
+        }
+    ],
+    "veiculos": [
+        {
+            "placa": "PERSIST",
+            "valorDiaria": 100.0,
+            "disponivel": true
+        },
+        {
+            "placa": "XYZ99",
+            "valorDiaria": 300.0,
+            "disponivel": true
+        },
+        {
+            "placa": "ABCD123",
+            "valorDiaria": 20.0,
+            "disponivel": true
+        },
+        {
+            "placa": "VEICULO",
+            "valorDiaria": 30.0,
+            "disponivel": true
+        },
+        {
+            "placa": "CARRO1",
+            "valorDiaria": 12.0,
+            "disponivel": true
+        },
+        {
+            "placa": "MOTO1",
+            "valorDiaria": 50.0,
+            "disponivel": true
+        }
+    ],
+    "alugueis": []
+}
